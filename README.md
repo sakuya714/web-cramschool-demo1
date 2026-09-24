@@ -1,4 +1,4 @@
-# cramschool-web-demo1
+# web-cramschool-demo1
 
 学習塾向け営業デモサイト（西宮市の学習塾【〇〇予備校】想定）。
 
